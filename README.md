@@ -52,7 +52,7 @@ Note this is a Windows project as executables can only be created on the same pl
 Compile using:
 
 ```
-$ pyinstaller --onefile lifx.py
+$ pyinstaller --onefile --icon lifx.ico lifx.py
 ```
 
 Executable will be in ``dist``
