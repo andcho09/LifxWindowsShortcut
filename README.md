@@ -81,6 +81,11 @@ $ pyinstaller --onefile --icon lifx.ico lifx.py
 
 Executable will be in ``dist``
 
+
+## Issues
+
+The [lifxlan GitHub project](https://github.com/mclarkk/lifxlan) hasn't been updated [since 2021](https://pypi.org/project/lifxlan/) (although there are still commits). Need to fix version numbers of dependencies.
+
 ## Troubleshooting
 
 ### Error loading Python DLL message  when running .exe
